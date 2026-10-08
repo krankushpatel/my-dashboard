@@ -1,19 +1,38 @@
 # Engineering Standards
 
-## Coding
-- Prefer readable code over clever code.
-- Explain the approach before implementation.
-- Handle edge cases explicitly.
-- Add tests for important behavior.
+These are the standards used for portfolio work.
 
-## AI/ML
+## Code
+
+- Prefer readable code over clever code.
+- Write the approach before implementation when solving a hard problem.
+- Handle edge cases deliberately.
+- Test important behavior.
+- Keep modules and interfaces focused.
+
+## AI / ML
+
 - Establish a baseline before optimizing.
-- Track datasets, experiments and evaluation metrics.
-- Document failure modes and limitations.
-- Separate experimentation code from production interfaces.
+- Track experiments and evaluation metrics.
+- Investigate failure cases.
+- Keep training and inference concerns clear.
+- Document limitations.
+
+## Production
+
+- Treat configuration, errors, logging, testing, and deployment as part of the feature.
+- Prefer reproducible environments.
+- Record architecture trade-offs.
+- Measure real outcomes when possible.
 
 ## Portfolio
-A project is portfolio-worthy when it demonstrates a meaningful pattern, strong engineering decision, useful implementation, measurable result, or production learning.
 
-## Git History
-Use focused commits with clear intent. Keep README files current as projects evolve.
+A project earns a place in the public portfolio when it demonstrates one or more of:
+
+- meaningful problem solving
+- strong engineering decisions
+- non-trivial implementation
+- measurable results
+- production learning
+
+**Proof of work > vanity metrics.**
