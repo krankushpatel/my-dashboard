@@ -1,14 +1,37 @@
-# Backend & Software Engineering Portfolio
+# Backend & Software Engineering
 
-Projects focused on production-minded software engineering.
+Production-minded backend work using Python and modern engineering practices.
 
-## Focus Areas
-- FastAPI and REST APIs
-- MongoDB and data modeling
-- Authentication and authorization
-- Testing and reliability
-- Linux and Docker
-- Networking and system design
-- Performance, observability and deployment
+## Focus
 
-Each substantial project should include architecture, API design, trade-offs, tests and deployment notes.
+- Python
+- FastAPI
+- REST APIs
+- MongoDB
+- Authentication / authorization
+- Testing
+- Docker
+- Linux / RHEL
+- Networking
+- System design
+- Observability and deployment
+
+## Project Standard
+
+```text
+Requirements
+    ↓
+Architecture
+    ↓
+Implementation
+    ↓
+Tests
+    ↓
+Container / Deployment
+    ↓
+Monitoring
+    ↓
+Iteration
+```
+
+Substantial projects should explain API design, data modeling, trade-offs, reliability concerns, and deployment decisions.
