@@ -1,21 +1,46 @@
 # DSA Portfolio
 
-This folder contains selected problem-solving work from LeetCode and HackerRank.
+Selected **LeetCode + HackerRank** work focused on interview-level problem solving.
 
-## Structure
-- `leetcode/` — selected LeetCode solutions
-- `hackerrank/` — selected HackerRank solutions
-- `patterns/` — pattern notes and reusable problem-solving templates
+## Problem Workflow
 
-## Solution Standard
-Each portfolio-worthy problem should capture:
-1. Problem statement / link
-2. Pattern
-3. Thought process
-4. Approach
-5. Complexity
-6. Clean implementation
-7. Mistake / edge case
-8. Revisit notes
+**Understand → Brute Force → Optimize → Code → Test → Review → Revisit**
 
-Not every solved problem belongs in the public portfolio. Quality and learning value matter more than count.
+Every portfolio-worthy solution should include:
+
+- Problem link
+- Pattern
+- Key observation
+- Approach
+- Time / space complexity
+- Edge cases
+- Clean implementation
+- Mistake or lesson
+- Revisit note
+
+## Patterns
+
+- Arrays & Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Stack / Queue
+- Binary Search
+- Linked List
+- Trees
+- Graphs
+- Heap
+- Greedy
+- Backtracking
+- Dynamic Programming
+
+> The goal is **pattern mastery**, not a large collection of copied solutions. Only representative or technically valuable problems should be highlighted.
+
+## Directory Convention
+
+```text
+dsa/
+├── leetcode/
+├── hackerrank/
+└── patterns/
+```
