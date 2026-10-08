@@ -1,50 +1,55 @@
-# Ankush Kumar — Software Engineer • AI Engineer • Builder
+# Ankush Kumar
 
-> Building strong foundations in DSA and software engineering, while shipping practical AI systems and products.
+### Software Engineer • AI Engineer • Builder
 
-## 🚀 Focus
-- **DSA & Interviews:** LeetCode, HackerRank, problem-solving patterns, system design
-- **AI Engineering:** Python, PyTorch, ML/DL, Computer Vision, LLMs, RAG, fine-tuning
-- **Software Engineering:** FastAPI, APIs, MongoDB, Linux/RHEL, Docker, testing, deployment
-- **Building:** production-minded projects, startup experiments, automation and developer tools
+I build practical software and AI systems with a focus on **problem solving, clean engineering, and production thinking**.
 
-## 🧠 Engineering Principles
-1. Understand before coding.
-2. Write the approach before the implementation.
-3. Test edge cases and failure modes.
-4. Measure what matters.
-5. Ship small, iterate fast, improve continuously.
+## What I'm Working On
 
-## 📚 Current Learning System
-- Daily coding practice: LeetCode + HackerRank
-- Pattern-based DSA revision and interview preparation
-- AI engineering from fundamentals → production
-- Project work from problem → architecture → implementation → deployment
+- 🧠 **DSA & Interviews** — LeetCode, HackerRank, patterns, complexity, system design
+- 🤖 **AI Engineering** — PyTorch, ML/DL, Computer Vision, LLMs, RAG, fine-tuning
+- ⚙️ **Backend Engineering** — Python, FastAPI, APIs, MongoDB
+- 🐧 **Systems & Production** — Linux/RHEL, Git, Docker, testing, deployment, monitoring
+- 🚀 **Building** — practical products, automation, and startup experiments
 
-## 🛠️ Tech Stack
-**Languages:** Python, C++  
-**Backend:** FastAPI, REST APIs, MongoDB  
-**AI/ML:** PyTorch, Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, Fine-tuning  
-**Systems:** Linux/RHEL, Git, Docker, networking, GPU environments  
-**Engineering:** Testing, deployment, monitoring, system design
+## Selected Engineering Areas
 
-## 📈 Portfolio Direction
-This repository is the public portfolio hub. Representative work will be organized around:
+| Area | Focus |
+|---|---|
+| Algorithms | Arrays, hashing, trees, graphs, DP, greedy, backtracking |
+| AI/ML | PyTorch, deep learning, CV, LLMs, RAG, fine-tuning |
+| Backend | FastAPI, REST APIs, MongoDB, authentication |
+| Systems | Linux, Docker, networking, system design |
+| Production | Testing, deployment, observability, iteration |
 
-- `dsa/` — selected LeetCode and HackerRank solutions with explanations and patterns
-- `ai/` — AI/ML, Computer Vision, PyTorch and LLM projects
-- `backend/` — FastAPI, API and software-engineering projects
-- `production/` — deployed systems and startup experiments
-- `docs/` — architecture notes, engineering decisions and learning logs
+## Portfolio
 
-> The goal is not to publish thousands of random solutions. The goal is to demonstrate **problem-solving ability, engineering judgment, clean implementation, and production thinking**.
+- **[DSA](./dsa)** — selected LeetCode + HackerRank problems with approaches, complexity, mistakes, and patterns
+- **[AI Engineering](./ai)** — AI/ML experiments and production-oriented systems
+- **[Backend](./backend)** — APIs and software engineering projects
+- **[Production](./production)** — deployed projects and startup experiments
+- **[Engineering Standards](./docs/engineering-standards.md)** — how I approach code, AI systems, and portfolio work
 
-## 🔗 Learning OS
-My learning and execution system tracks daily DSA, AI study, projects, startup execution, earning opportunities, interview readiness and engineering metrics.
+## How I Work
 
-## 📫 Connect
-GitHub: https://github.com/krankushpatel
+**Understand → Design → Implement → Test → Measure → Ship → Iterate**
+
+I care more about **why a solution works** than simply making it work.
+
+For DSA, that means pattern recognition and independent problem solving.  
+For AI, that means baselines, evaluation, failure analysis, and reproducible experiments.  
+For software, that means clear interfaces, tests, maintainability, and production awareness.
+
+## Current Goal
+
+Build enough depth and real engineering evidence to operate confidently across:
+
+**Algorithms ↔ Backend Systems ↔ AI/ML ↔ Production Engineering ↔ Product Building**
+
+## GitHub
+
+[github.com/krankushpatel](https://github.com/krankushpatel)
 
 ---
 
-*Learn → Build → Ship → Measure → Earn → Improve.*
+*Learn → Build → Ship → Measure → Improve.*
